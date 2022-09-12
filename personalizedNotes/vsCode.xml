@@ -1,0 +1,90 @@
+<NotepadPlus>
+    <UserLang name="vsCode" ext="nvsc" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00// 01 02 03/* 04*/</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1">( ) , ; = + * [ ] . { } : %</Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">
+				display top width class float font weight text decoration target href path component pathMatch &quot;ngFor&quot; item menu 
+				&quot;mat-button&quot; &quot;font-weight&quot; &quot;margin-left&quot; &quot;margin-top&quot; &quot;text-decoration&quot; rel style 
+				src crossorigin redirectTo loadChildren routerLink click rowHeight cols alt ngStyle background-color position bottom height 
+				&quot;font-size&quot; color &quot;margin-right&quot; &quot;z-index&quot; ngIf text-transform background outline border 
+				&quot;border-radius&quot; &quot;border-inline&quot; matInput name ngModel required input ngClass size padding margin ngSubmit 
+				&quot;mat-menu-item&quot; minlength maxlength 
+			</Keywords>
+            <Keywords name="Keywords2"></Keywords>
+            <Keywords name="Keywords3"></Keywords>
+            <Keywords name="Keywords4">
+				&quot;&lt;div&quot; &quot;&lt;/div&gt;&quot; &quot;&lt;span&quot; &quot;&lt;button&quot; &quot;&lt;/button&gt;&quot; import from export 
+				class exports imports const declarations constructor private implements interface return this &quot;&lt;mat-icon&quot; 
+				&quot;&lt;/mat-icon&gt;&quot; &quot;&lt;link&quot; &quot;&lt;i&quot; &quot;&lt;/i&gt;&quot; &quot;&lt;script&quot; 
+				&quot;&lt;/script&gt;&quot; providers bootstrap &quot;&lt;mat-grid-list&quot; &quot;&lt;/mat-grid-list&gt;&quot; 
+				&quot;&lt;mat-grid-tile&quot; &quot;&lt;/mat-grid-tile&gt;&quot; &quot;&lt;mat-grid-tile&gt;&quot; &quot;&lt;img&quot; &quot;&lt;p&quot; 
+				&quot;&lt;p&gt;&quot; &quot;&lt;/p&gt;&quot; &quot;&lt;mat-label&gt;&quot; &quot;&lt;/mat-label&gt;&quot; &quot;!important&quot; form 
+				&quot;&lt;a&quot; &quot;&lt;input&quot; &quot;&lt;input&gt;&quot; &quot;&lt;form&quot; &quot;&lt;form&gt;&quot; &quot;&lt;/form&gt;&quot; 
+				&quot;&lt;mat-hint&quot; &quot;&lt;mat-hint&gt;&quot; &quot;&lt;/mat-hint&gt;&quot;
+			</Keywords>
+            <Keywords name="Keywords5">
+				NgModule A11yModule CdkAccordionModule ClipboardModule DragDropModule PortalModule ScrollingModule CdkStepperModule CdkTableModule 
+				CdkTreeModule MatAutocompleteModule MatBadgeModule MatBottomSheetModule MatButtonModule MatButtonToggleModule MatCardModule MatCheckboxModule 
+				MatChipsModule MatStepperModule MatDatepickerModule MatDialogModule MatDividerModule MatExpansionModule MatGridListModule MatIconModule 
+				MatInputModule MatListModule MatMenuModule MatNativeDateModule MatRippleModule MatPaginatorModule MatProgressBarModule MatProgressSpinnerModule 
+				MatRadioModule MatSelectModule MatSidenavModule MatSliderModule MatSlideToggleModule MatSnackBarModule MatSortModule MatTableModule 
+				MatTabsModule MatToolbarModule MatTooltipModule MatTreeModule OverlayModule CdkMenuModule DialogModule RouterModule Routes Injectable HttpClient 
+				Component Observable CommonModule PreloadAllModules BrowserAnimationsModule HttpClientModule BrowserModule OnInit Input
+			</Keywords>
+            <Keywords name="Keywords6">
+				&quot;@NgModule&quot; &quot;@Injectable&quot; &quot;@Component&quot; &quot;@Input&quot;
+			</Keywords>
+            <Keywords name="Keywords7">focus valid invalid active</Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00 01 02 03&quot; 03&apos; 04 05&quot; 05&apos; 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="539601" bgColor="FFFFFF" fontStyle="3" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="019635" bgColor="FFFFFF" fontStyle="2" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="929C10" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="158AB0" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="FF00FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="797979" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="1C4DBF" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="800000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="AE00AE" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="9C8501" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="797979" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="9F8B00" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="CC6D0F" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
