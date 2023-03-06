@@ -14,7 +14,7 @@
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
             <Keywords name="Operators1">
-				; ( ) . ,
+				; ( ) . , % [ ]
 			</Keywords>
             <Keywords name="Operators2"></Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
@@ -27,10 +27,13 @@
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">
-				do declare begin raise notice end for in loop exception when then commit rollback get stacked diagnostics INSERT INTO VALUES
+				DO DECLARE BEGIN RAISE NOTICE END FOR IN LOOP EXCEPTION WHEN THEN COMMIT ROLLBACK GET STACKED DIAGNOSTICS INSERT INTO VALUES TYPE ARRAY FOREACH 
+				IF SELECT FROM RETURNING ELSE WHERE AND INNER JOIN ON LANGUAGE DELETE LIMIT IS
 			</Keywords>
             <Keywords name="Keywords2">json</Keywords>
-            <Keywords name="Keywords3">json_array_length</Keywords>
+            <Keywords name="Keywords3">
+				json_array_length BIGINT INTEGER VARCHAR TEXT JSON
+			</Keywords>
             <Keywords name="Keywords4">
 				RETURNED_SQLSTATE MESSAGE_TEXT PG_CONTEXT OTHERS
 			</Keywords>
