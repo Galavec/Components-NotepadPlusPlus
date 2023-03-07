@@ -13,7 +13,9 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">( ) ; [ ] :</Keywords>
+            <Keywords name="Operators1">
+				( ) ; [ ] :
+			</Keywords>
             <Keywords name="Operators2"></Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
@@ -24,20 +26,24 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">&quot;JBoss Bootstrap Environment&quot; &quot;Spring Boot&quot;</Keywords>
+            <Keywords name="Keywords1">
+				&quot;JBoss Bootstrap Environment&quot; &quot;Spring Boot&quot;
+			</Keywords>
             <Keywords name="Keywords2">
 				JBOSS_HOME: JAVA: JAVA_OPTS: &quot;dynamic native SQL query&quot; &quot;Hibernate:&quot;
 			</Keywords>
             <Keywords name="Keywords3">INFO DEBUG</Keywords>
             <Keywords name="Keywords4">
 				WARN http://127.0.0.1:9990 &quot;Contexto de Web registrado:&quot; &quot;Shutting down ExecutorService 
-				&apos;applicationTaskExecutor&apos;&quot; &quot;Tomcat started on port(s)&quot;
+				&apos;applicationTaskExecutor&apos;&quot; &quot;Tomcat started on port(s)&quot; WARNING
 			</Keywords>
             <Keywords name="Keywords5">
 				Implementado postgresql mssql-server &quot;Inicializando Mojarra&quot; &quot;Galavec&quot;
 			</Keywords>
             <Keywords name="Keywords6">
-				ERROR &quot;Caused by:&quot; &quot;Type cannot be null&quot; &quot;could not extract ResultSet&quot; java.io.FileNotFoundException
+				ERROR &quot;Caused by:&quot; &quot;Type cannot be null&quot; &quot;could not extract ResultSet&quot; java.io.FileNotFoundException java.lang.NullPointerException 
+				SEVERE &quot;java.sql.SQLException&quot; &quot;could not prepare statement&quot; &quot;org.jbpm.services.task.exception.PermissionDeniedException&quot; 
+				&quot;connect timed out&quot; &quot;has too many arguments specified.&quot;
 			</Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>

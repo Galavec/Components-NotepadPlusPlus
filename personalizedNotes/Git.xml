@@ -30,7 +30,7 @@
 				status HEAD show pop clear remote fetch cache store
 			</Keywords>
             <Keywords name="Keywords3">
-				merge push add commit log rebase rm diff reset stash cherry-pick push
+				merge push add commit log rebase rm diff reset stash cherry-pick push pull
 			</Keywords>
             <Keywords name="Keywords4">
 				-m --all -A -u -d --delete -i --global --system --list --cached --oneline --hard --grep -S --allow-empty --continue --unset
