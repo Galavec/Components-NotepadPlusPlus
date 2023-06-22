@@ -26,11 +26,11 @@
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">
 				date pwd cal history whatis clear reset ls cd ll mkdir touch rm mv cp df du nano cat whoami id useradd users passwd chmod chown 
-				ifconfig ping apt-get update install search clean help ps pstree kill killall sort tail head wc cut grep find
+				ifconfig ping apt-get update install search clean help ps pstree kill killall sort tail head wc cut grep find systemctl service
 			</Keywords>
             <Keywords name="Keywords2">/N /I /? /T /V /FI /PID /IM /F</Keywords>
             <Keywords name="Keywords3">
-				-c -lha -rf -h -hs -g -d -s -m -k -v --version -ef -Agu -r -n -f -lh -name -size
+				-c -lha -rf -h -hs -g -d -s -m -k -v --version -ef -Agu -r -n -f -lh -name -size --type
 			</Keywords>
             <Keywords name="Keywords4">sudo su root |</Keywords>
             <Keywords name="Keywords5">aptitude php git composer</Keywords>

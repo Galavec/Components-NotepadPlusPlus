@@ -49,8 +49,9 @@ Tabla:{
             <Keywords name="Keywords8"></Keywords>
             <Keywords name="Delimiters">
 				00Ejemplo:{ 00Nota:{ 00Example:{ 00Note:{ 01 02;} 02;} 02;} 02;} 03&quot; 04 05&quot; 06| 07 08: 09Fuente:{ 09Source:{ 10 11;} 11;} 
-				12Desarrollar:{ 12Modificaciones:{ 12Elaboraci&#x00F3;n:{ 12Develop:{ 12Modifications:{ 12Elaboration:{ 13 14;} 14;} 14;} 14;} 14;} 14;} 
-				15Tabla:{ 15Table:{ 16 17;} 17;} 18-:---------- 19 20----------:- 21--:--------- 22 23---------:--
+				12Desarrollar:{ 12Modificaciones:{ 12Elaboraci&#x00F3;n:{ 12Develop:{ 12Modifications:{ 12Elaboration:{ 12Codificaci&#x00F3;n:{ 
+				12Codification:{ 13 14;} 14;} 14;} 14;} 14;} 14;} 14;} 14;} 15Tabla:{ 15Table:{ 16 17;} 17;} 18-:---------- 19 20----------:- 
+				21--:--------- 22 23---------:--
 			</Keywords>
         </KeywordLists>
         <Styles>

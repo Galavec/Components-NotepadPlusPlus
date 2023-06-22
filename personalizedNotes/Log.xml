@@ -38,12 +38,12 @@
 				&apos;applicationTaskExecutor&apos;&quot; &quot;Tomcat started on port(s)&quot; WARNING
 			</Keywords>
             <Keywords name="Keywords5">
-				Implementado postgresql mssql-server &quot;Inicializando Mojarra&quot; &quot;Galavec&quot;
+				Implementado postgresql mssql-server &quot;Inicializando Mojarra&quot; &quot;Galavec&quot; &quot;GALAVEC&quot;
 			</Keywords>
             <Keywords name="Keywords6">
 				ERROR &quot;Caused by:&quot; &quot;Type cannot be null&quot; &quot;could not extract ResultSet&quot; java.io.FileNotFoundException java.lang.NullPointerException 
 				SEVERE &quot;java.sql.SQLException&quot; &quot;could not prepare statement&quot; &quot;org.jbpm.services.task.exception.PermissionDeniedException&quot; 
-				&quot;connect timed out&quot; &quot;has too many arguments specified.&quot;
+				&quot;connect timed out&quot; &quot;has too many arguments specified.&quot; &quot;Unparseable date&quot;
 			</Keywords>
             <Keywords name="Keywords7"></Keywords>
             <Keywords name="Keywords8"></Keywords>
