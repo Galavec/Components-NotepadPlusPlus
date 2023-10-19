@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="Sql_plSql" ext="fplsql" udlVersion="2.1">
+    <UserLang name="Sql_plSql" ext="nplsql" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="yes" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
