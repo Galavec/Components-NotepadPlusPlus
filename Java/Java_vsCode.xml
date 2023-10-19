@@ -82,7 +82,7 @@
 				SimpleDateFormat URLEncoder Files Paths PostMapping RequestMapping RestController Qualifier File FileOutputStream Serializable ConcurrentHashMap ScheduledFuture 
 				Locale Executors ScheduledExecutorService TimeUnit GetMapping RequestParam GregorianCalendar JsonFormat JsonInclude JsonParser ObjectCodec JsonSerializer 
 				JsonGenerator SerializerProvider Include JsonProperty TypeReference JsonIdentityInfo ObjectIdGenerators JsonSerialize JSonDateSerializer JsonPropertyDescription 
-				JsonUnwrapped JsonPropertyOrder
+				JsonUnwrapped JsonPropertyOrder EqualsAndHashCode
 			</Keywords>
             <Keywords name="Keywords6">
 				&quot;@Slf4j&quot; &quot;@Stateless&quot; &quot;@SuppressWarnings&quot; &quot;@RestController&quot; &quot;@CrossOrigin&quot; 
@@ -107,7 +107,7 @@
 				&quot;@WebFilter&quot; &quot;@PicketLink&quot; &quot;@TransactionAttribute&quot; &quot;@OwnerReference&quot; &quot;@AttributeClass&quot; 
 				&quot;@AttributeName&quot; &quot;@AttributeValue&quot; &quot;@Startup&quot; &quot;@Wire&quot; &quot;@Qualifier&quot; &quot;@JsonFormat&quot; 
 				&quot;@JsonInclude&quot; &quot;@JsonProperty&quot; &quot;@JsonIdentityInfo&quot; &quot;@JsonSerialize&quot; &quot;@JsonPropertyDescription&quot; 
-				&quot;@JsonUnwrapped&quot; &quot;@JsonPropertyOrder&quot;
+				&quot;@JsonUnwrapped&quot; &quot;@JsonPropertyOrder&quot; &quot;@EqualsAndHashCode&quot;
 			</Keywords>
             <Keywords name="Keywords7">
 				DataAccessException Exception JSONException JsonProcessingException FileHandleException NamingException LazyInitializationException IOException 
