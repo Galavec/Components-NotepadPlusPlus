@@ -47,7 +47,7 @@
 				INFORMATION_SCHEMA.COLUMNS INFORMATION_SCHEMA.TABLES SYSCOMMENTS SYSOBJECTS sys sys.objects
 			</Keywords>
             <Keywords name="Keywords5">
-				SP_EXECUTESQL sp_addextendedproperty xp_cmdshell sp_configure sp_who
+				SP_EXECUTESQL sp_addextendedproperty xp_cmdshell sp_configure sp_who sp_dropextendedproperty
 			</Keywords>
             <Keywords name="Keywords6"></Keywords>
             <Keywords name="Keywords7"></Keywords>
