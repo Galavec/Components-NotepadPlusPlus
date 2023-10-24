@@ -43,7 +43,7 @@
 				Double DecimalFormat Collection Vector Hashtable
 			</Keywords>
             <Keywords name="Keywords4">
-				parseInt toString toUpperCase toLowerCase &quot;1L&quot; toCharArray intValue parseDouble toList
+				parseInt toString toUpperCase toLowerCase &quot;1L&quot; toCharArray intValue parseDouble toList toByteArray
 			</Keywords>
             <Keywords name="Keywords5">
 				SelectItem ValueChangeEvent Query SQLServerCallableStatement Element NodeList LoggerContext Data LogManager Logger ThreadContext 
@@ -83,7 +83,8 @@
 				Locale Executors ScheduledExecutorService TimeUnit GetMapping RequestParam GregorianCalendar JsonFormat JsonInclude JsonParser ObjectCodec JsonSerializer 
 				JsonGenerator SerializerProvider Include JsonProperty TypeReference JsonIdentityInfo ObjectIdGenerators JsonSerialize JSonDateSerializer JsonPropertyDescription 
 				JsonUnwrapped JsonPropertyOrder EqualsAndHashCode Collectors UUID Set ResourceBundle Pattern TreeSet Random TimeZone ZipEntry ZipOutputStream ExecutorService 
-				Matcher AtomicReference AtomicBoolean Function AtomicInteger Optional Entry Key MessageDigest AlgorithmParameterSpec KeySpec SecureRandom X509Certificate
+				Matcher AtomicReference AtomicBoolean Function AtomicInteger Optional Entry Key MessageDigest AlgorithmParameterSpec KeySpec SecureRandom X509Certificate 
+				FileInputStream ByteArrayInputStream ByteArrayOutputStream InputStream OutputStream BufferedReader InputStreamReader Closeable Flushable
 			</Keywords>
             <Keywords name="Keywords6">
 				&quot;@Slf4j&quot; &quot;@Stateless&quot; &quot;@SuppressWarnings&quot; &quot;@RestController&quot; &quot;@CrossOrigin&quot; 
@@ -115,7 +116,7 @@
 				ServletException PersistenceException NullPointerException ScriptException MessagingException SneakyThrows RemoteException AccessDeniedException 
 				SQLException ClassNotFoundException UnknownHostException ParseException NoSuchAlgorithmException InvalidKeyException InvalidAlgorithmParameterException 
 				BadPaddingException NoSuchPaddingException IllegalBlockSizeException JsonMappingException MissingResourceException InvalidKeySpecException 
-				CertificateException GeneralSecurityException
+				CertificateException GeneralSecurityException UnsupportedEncodingException FileNotFoundException
 			</Keywords>
             <Keywords name="Keywords8">&quot;&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD&quot;</Keywords>
             <Keywords name="Delimiters">00 01 02 03&quot; 03&apos; 04 05&quot; 05&apos; 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
