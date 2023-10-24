@@ -35,7 +35,7 @@
 				&quot;TYPE_FORWARD_ONLY&quot; &quot;CONCUR_READ_ONLY&quot; &quot;DAY_OF_MONTH&quot; &quot;HOUR_OF_DAY&quot; &quot;MINUTE&quot; 
 				FALSE MONTH YEAR TRUE &quot;APPLICATION_FORM_URLENCODED&quot; &quot;TEXT_PLAIN&quot; &quot;MULTIPART_FORM_DATA&quot; 
 				&quot;INTERNAL_SERVER_ERROR&quot; OK TEXT WARN &quot;APPLICATION_JSON&quot; SUPPORTS IDENTITY ENGLISH &quot;DATE&quot; 
-				&quot;NON_NULL&quot;
+				&quot;NON_NULL&quot; &quot;PRIMARY&quot; &quot;NFD&quot;
 			</Keywords>
             <Keywords name="Keywords3">
 				String Integer Date Object BigDecimal &quot;Object[]&quot; &quot;String[]&quot; long double Long Boolean &quot;char[]&quot; 
@@ -84,7 +84,8 @@
 				JsonGenerator SerializerProvider Include JsonProperty TypeReference JsonIdentityInfo ObjectIdGenerators JsonSerialize JSonDateSerializer JsonPropertyDescription 
 				JsonUnwrapped JsonPropertyOrder EqualsAndHashCode Collectors UUID Set ResourceBundle Pattern TreeSet Random TimeZone ZipEntry ZipOutputStream ExecutorService 
 				Matcher AtomicReference AtomicBoolean Function AtomicInteger Optional Entry Key MessageDigest AlgorithmParameterSpec KeySpec SecureRandom X509Certificate 
-				FileInputStream ByteArrayInputStream ByteArrayOutputStream InputStream OutputStream BufferedReader InputStreamReader Closeable Flushable
+				FileInputStream ByteArrayInputStream ByteArrayOutputStream InputStream OutputStream BufferedReader InputStreamReader Closeable Flushable MessageFormat 
+				Collator Format DateFormat NumberFormat Normalizer
 			</Keywords>
             <Keywords name="Keywords6">
 				&quot;@Slf4j&quot; &quot;@Stateless&quot; &quot;@SuppressWarnings&quot; &quot;@RestController&quot; &quot;@CrossOrigin&quot; 
